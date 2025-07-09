@@ -1,0 +1,32 @@
+http://lab403azms01.itesm.mx/TC2005B_401_2/Expo-ing-master6/
+
+Admin:
+  Id_Admin        Contrasenia
+    Ad0000000     YoAdmin
+
+Estudiante:
+  Matricula       Contrasenia
+  A01736380       12345
+  A01735320       67890
+  A01734370       abcd
+  A01736390       ABCD
+  A01735390       efgh
+  A01734380       EFGH
+  A01736310       ijkl
+  A01737370       IJKL
+  A01733380       mnop
+  A01736312       MNOP
+
+Docente:
+  Matricula       Contrasenia
+  L012345         12345
+  L067890         67890
+  L013579         abcd
+  L024680         efgh
+  L012459         ijkl
+
+Juez:
+  Matricula       Contrasenia
+  Ju0000000       Ju1233
+  Ju0000001       Ju2344
+  Ju0000002       Ju3455 
